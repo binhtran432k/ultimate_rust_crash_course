@@ -1,6 +1,3 @@
-// Silence some warnings so they don't distract from the exercise.
-#![allow(dead_code, unused_mut, unused_variables)]
-
 fn main() {
     // This collects any command-line arguments into a vector of Strings.
     // For example:

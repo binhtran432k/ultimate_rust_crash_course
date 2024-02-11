@@ -1,6 +1,3 @@
-// Silence some warnings so they don't distract from the exercise.
-#![allow(dead_code, unused_variables)]
-
 use ding_machine::{ding, on_off, print_array, print_difference, print_distance};
 
 fn main() {
